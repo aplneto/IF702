@@ -12,5 +12,5 @@ Respositório criado para guardar algoritmos usados para prática da disciplina 
 
 ## Recursos
 
-[Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh)
-[THE MNIST DATABASE](http://yann.lecun.com/exdb/mnist/)
+- [Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh)
+- [THE MNIST DATABASE](http://yann.lecun.com/exdb/mnist/)
